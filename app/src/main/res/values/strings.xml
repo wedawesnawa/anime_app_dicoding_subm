@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnimeListApp</string>
+    <string name="anime_image">Anime Image</string>
+    <string name="profile_photo">Profile Photo</string>
+</resources>
